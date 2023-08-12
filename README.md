@@ -4,10 +4,10 @@ Bu depo, Veri Bilimi için Python ve TensorFlow eğitiminde öğrendiğim kod ö
 
 ## Kullanılan Kütüphaneler
 
-- **NumPy:** Bilimsel hesaplamalar ve veri manipülasyonu için kullanılan kütüphane.
-- **Pandas:** Veri analizi ve manipülasyonu için yaygın olarak kullanılan kütüphane.
-- **Matplotlib:** Veri görselleştirme ve grafik oluşturma için kullanılan kütüphane.
-- **TensorFlow:** Makine öğrenimi ve derin öğrenme modelleri oluşturmak için kullanılan kütüphane.
+- **NumPy:** NumPy, Python programlama dili için büyük, çok boyutlu dizileri ve matrisleri destekleyen, bu diziler üzerinde çalışacak üst düzey matematiksel işlevler ekleyen bir kütüphanedir.
+- **Pandas:** Pandas, veri işlemesi ve analizi için Python programlama dilinde yazılmış olan bir yazılım kütüphanesidir. Bu kütüphane temel olarak zaman etiketli serileri ve sayısal tabloları işlemek için bir veri yapısı oluşturur ve bu şekilde çeşitli işlemler bu veri yapısı üzerinde gerçekleştirilebilir olur.
+- **Matplotlib:** Veri görselleştirme ve grafik oluşturma için kullanılan kütüphanedir. Matplotlib, kaliteli histogramlar, güç spektrumları, çubuk grafikleri, hata çizelgeleri ve vb. şekiller üretmek için 2 boyutlu çizim kütüphanesidir.
+- **TensorFlow:** TensorFlow, makine öğrenimi için ücretsiz ve açık kaynaklı bir yazılım kütüphanesidir . Bir dizi görevde kullanılabilir, ancak derin sinir ağlarının eğitimi ve çıkarımına özel olarak odaklanmaktadır. Tensorflow, veri akışına ve türevlenebilir programlamaya dayalı sembolik bir matematik kütüphanedir.
 
 ## Proje Yapısı
 
