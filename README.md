@@ -1,5 +1,5 @@
 # Veri-Bilimi-in-Python-ve-Tensorflow
--Numpy
+-Numpy /n
 -Pandas
 -Matlotlib
 -Tenserflow
